@@ -1,0 +1,63 @@
+00:00:00.015886 main     VirtualBox COM Server 6.0.4 r128413 win.amd64 (Jan 25 2019 18:13:23) release log
+00:00:00.016599 main     Log opened 2021-08-16T22:05:58.825842000Z
+00:00:00.016602 main     Build Type: release
+00:00:00.016615 main     OS Product: Windows 10
+00:00:00.016617 main     OS Release: 10.0.19043
+00:00:00.016618 main     OS Service Pack: 
+00:00:00.120506 main     DMI Product Name: 20266
+00:00:00.173726 main     DMI Product Version: Lenovo Yoga 2 Pro
+00:00:00.173741 main     Host RAM: 8108MB (7.9GB) total, 4082MB (3.9GB) available
+00:00:00.181323 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.181325 main     Process ID: 14512
+00:00:00.181326 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.382118          VirtualBox: object creation starts
+00:00:00.385622          Home directory: 'C:\Users\Lenovo\.VirtualBox'
+00:00:00.386199          Installed Drivers:
+00:00:00.394882            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.4.28413)
+00:00:00.397221            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.4.28413)
+00:00:00.399374            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.4.28413)
+00:00:00.422999          Loading settings file "C:\Users\Lenovo\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.435056          Getting USB descriptor failed with error 31
+00:00:00.442406          Getting USB descriptor failed with error 31
+00:00:00.451790          USB: Unknown USB device detected (idVendor: 0x1bcf, idProduct: 0x2c43)
+00:00:00.451874          USB: Unknown USB device detected (idVendor: 0x275d, idProduct: 0x0ba6)
+00:00:00.452280          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x07dc)
+00:00:00.661696          netIfIsWireless: CreateFile on '\\.\{3492095C-E1B0-483F-8F4C-0081E97A8224}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.667941          netIfIsWireless: CreateFile on '\\.\{270EFB46-1D03-4C12-A6EF-015EA0B5F340}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.669015          netIfIsWireless: CreateFile on '\\.\{21C5FD56-A8EE-42B2-9AD1-011530B6F06F}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.670912          netIfIsWireless: CreateFile on '\\.\{5188826A-17CD-43C8-B2C3-59A49E23BC97}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.704823          HostDnsMonitor::updateInfo
+00:00:00.705771          HostDnsMonitor: old information
+00:00:00.705773            no server entries
+00:00:00.705775            no domain set
+00:00:00.705776            no search string entries
+00:00:00.705777          HostDnsMonitor: new information
+00:00:00.705778            server 1: 10.0.0.1
+00:00:00.705779            domain: filiales.local
+00:00:00.705780            no search string entries
+00:00:00.855675          VD: VDInit finished with VINF_SUCCESS
+00:00:00.873177          Loading settings file "C:\Users\Lenovo\VirtualBox VMs\centoos\centoos.vbox" with version "1.16-windows"
+00:00:00.887489          Loading settings file "C:\Users\Lenovo\Downloads\kali-linux-xfce-2019-1a-amd64-iso\kali linux\kali linux.vbox" with version "1.16-windows"
+00:00:00.889340          VirtualBox: object created
+00:00:06.753078          Saving settings file "C:\Users\Lenovo\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:06.906453          Saving settings file "C:\Users\Lenovo\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:17.511870 USBPROXY Getting USB descriptor failed with error 31
+00:00:18.008336          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:25.280691          netIfIsWireless: CreateFile on '\\.\{3492095C-E1B0-483F-8F4C-0081E97A8224}' failed with rcWin=2 (0x2) - ignoring
+00:00:25.287153          netIfIsWireless: CreateFile on '\\.\{270EFB46-1D03-4C12-A6EF-015EA0B5F340}' failed with rcWin=2 (0x2) - ignoring
+00:00:25.288435          netIfIsWireless: CreateFile on '\\.\{21C5FD56-A8EE-42B2-9AD1-011530B6F06F}' failed with rcWin=2 (0x2) - ignoring
+00:00:25.292579          netIfIsWireless: CreateFile on '\\.\{5188826A-17CD-43C8-B2C3-59A49E23BC97}' failed with rcWin=2 (0x2) - ignoring
+00:01:06.717086 USBPROXY Getting USB descriptor failed with error 31
+00:01:06.729328 USBPROXY Getting USB descriptor failed with error 31
+00:01:13.252762          Saving settings file "C:\Users\Lenovo\Downloads\kali-linux-xfce-2019-1a-amd64-iso\kali linux\kali linux.vbox" with version "1.16-windows"
+00:40:56.491742          Saving settings file "C:\Users\Lenovo\Downloads\kali-linux-xfce-2019-1a-amd64-iso\kali linux\kali linux.vbox" with version "1.16-windows"
+00:40:57.002097          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:40:57.067093          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:40:57.312842 SaveState Saving settings file "C:\Users\Lenovo\Downloads\kali-linux-xfce-2019-1a-amd64-iso\kali linux\kali linux.vbox" with version "1.16-windows"
+00:46:34.744607          Saving settings file "C:\Users\Lenovo\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:46:34.762568          Saving settings file "C:\Users\Lenovo\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:46:40.336855 main     VirtualBox: object deletion starts
+00:46:40.338070 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Lenovo\VirtualBox VMs\centoos\centoos.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:46:40.340403 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Lenovo\Downloads\kali-linux-xfce-2019-1a-amd64-iso\kali linux\kali linux.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:46:40.367435 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:46:40.369178 main     VirtualBox: object deleted
